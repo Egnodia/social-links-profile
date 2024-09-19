@@ -23,8 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Live Site URL: [Social Link Profile](https://sociallinktrini.netlify.app)
 
 ### Built with
 
@@ -33,7 +32,5 @@ Users should be able to:
 - Flexbox
 
 ## Author
-
-- Website - [De'vante](https://www.your-site.com)
 - Frontend Mentor - [@Egnodia](https://www.frontendmentor.io/profile/Egnodia)
 
